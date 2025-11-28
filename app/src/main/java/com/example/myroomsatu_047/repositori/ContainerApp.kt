@@ -14,7 +14,6 @@ class ContainerDataApp(private val context: Context):
         OfflineRepositorSiswa(
             siswaDao = DatabaseSiswa.getDatabase(context).siswaDao()
         )
-
     }
 }
 
