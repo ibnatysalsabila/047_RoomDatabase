@@ -22,4 +22,16 @@ fun EditSiswaScreen(
     viewModel: EditViewModel = viewModel(factory = PenyediaViewModel.Factory)
 ) {
 
-    
+    Scaffold(
+        topBar = {
+            SiswaTopAppBar(
+                title = stringResource(DestinasiEditSiswa.titleRes),
+                canNavigateBack = true,
+                navigateUp = onNavigateUp
+            )
+        },
+        modifier = modifier
+    ) { innerPadding ->
+        val coroutineScope = rememberCoroutineScope()
+
+
