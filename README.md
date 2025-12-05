@@ -4,7 +4,7 @@
 2. Hasil Tambah Siswa
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c4d76fa7-2609-4eac-abef-faa6f4283613" />
 
-3. Hasil Hapus Siswa
+3. Hasil Tampilan Detail Siswa
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/18de12b0-4e50-4e47-957f-bd88b93f2c07" />
 
 4. Hasil Validasi Hapus
