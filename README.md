@@ -13,7 +13,7 @@
 5. Data sudah di hapus
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2bde93b7-4382-498e-938d-b69d2c46570b" />
 
-6. Hasil Edit Siswa
+6. Hasil Tampilan Edit Siswa
    <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ecc0c215-3d6b-4525-b15a-90865313b6de" />
 
 7. Hasil setelah di edit
